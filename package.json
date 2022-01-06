@@ -34,7 +34,6 @@
     "url": "https://github.com/wallabyjs/wallaby-2897/issues"
   },
   "homepage": "https://github.com/wallabyjs/wallaby-2897#readme",
-  
   "dependencies": {
     "@babel/runtime-corejs3": "^7.13.17",
     "@date-io/date-fns": "^1.3.13",
@@ -62,6 +61,7 @@
     "lodash": "^4.17.15",
     "merge-ranges": "^1.0.2",
     "node-sass": "^4.14.1",
+    "ol": "^6.10.0",
     "qs": "^6.9.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
